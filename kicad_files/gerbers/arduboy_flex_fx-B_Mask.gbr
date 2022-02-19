@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,5.1.9+dfsg1-1*%
+%TF.CreationDate,2022-02-19T14:54:11+00:00*%
+%TF.ProjectId,arduboy_flex_fx,61726475-626f-4795-9f66-6c65785f6678,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.1.9+dfsg1-1) date 2022-02-19 14:54:11*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,1.800000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,U1*%
+X171099480Y-83433920D03*
+X173639480Y-83433920D03*
+X176179480Y-83433920D03*
+X145166080Y-85948520D03*
+X142626080Y-85948520D03*
+X140086080Y-85948520D03*
+X132186680Y-83433920D03*
+%TD*%
+M02*

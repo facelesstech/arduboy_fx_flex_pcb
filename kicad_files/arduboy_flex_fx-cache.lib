@@ -1,0 +1,42 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# arduboy_flashcart_header_custom_arduboy_test_pads
+#
+DEF arduboy_flashcart_header_custom_arduboy_test_pads U 0 40 Y Y 1 F N
+F0 "U" 0 550 50 H V C CNN
+F1 "arduboy_flashcart_header_custom_arduboy_test_pads" 50 450 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+X VCC 1 450 -100 100 U 50 50 1 1 I
+X GND 2 350 -100 100 U 50 50 1 1 I
+X RST 3 250 -100 100 U 50 50 1 1 I
+X CLY 4 -250 -100 100 U 50 50 1 1 I
+X MOSI 5 -350 -100 100 U 50 50 1 1 I
+X MISO 6 -450 -100 100 U 50 50 1 1 I
+X RX 7 -750 100 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# w25q128_w25q128_8pin_sop
+#
+DEF w25q128_w25q128_8pin_sop U 0 40 Y Y 1 F N
+F0 "U" 0 -300 50 H V C CNN
+F1 "w25q128_w25q128_8pin_sop" 0 300 50 H V C CNN
+F2 "" -200 50 50 H I C CNN
+F3 "" -200 50 50 H I C CNN
+DRAW
+S -250 200 200 -200 0 1 0 N
+X CS 1 -350 150 100 R 50 50 1 1 I
+X D0 2 -350 50 100 R 50 50 1 1 I
+X WP 3 -350 -50 100 R 50 50 1 1 I
+X GND 4 -350 -150 100 R 50 50 1 1 I
+X DI 5 300 -150 100 L 50 50 1 1 I
+X CLK 6 300 -50 100 L 50 50 1 1 I
+X HOLD 7 300 50 100 L 50 50 1 1 I
+X VCC 8 300 150 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
